@@ -1,0 +1,14 @@
+rm -rf test
+
+mkdir test
+
+ls
+
+ls -lh
+
+cd ..
+
+git clone https://github.com/victorpu/test.git
+
+git status
+
